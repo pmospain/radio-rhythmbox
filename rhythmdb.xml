@@ -1,0 +1,863 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="iradio">
+    <title>(#1 - 3/40) KOCK.rocks BiPolar Radio</title>
+    <genre>Multi</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://kock.rocks:8000/</location>
+    <play-count>1</play-count>
+    <last-played>1644779504</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>113.fm Blues Town</title>
+    <genre>Blues, Folk, Soul</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://50.31.185.139:80/1005</location>
+    <play-count>2</play-count>
+    <last-played>1644779903</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>113.fm Blues Town</title>
+    <genre>Blues, Folk, Soul</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://75.102.53.58:80/1005</location>
+    <play-count>1</play-count>
+    <last-played>1644779547</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 4/3000) X13 Radio - House Music</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://x13radio.com:8000/stream/19/</location>
+    <play-count>1</play-count>
+    <last-played>1644778171</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 8/50) Nice Music for Nice People - [www.dropzone-frequency.com]</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://167.86.93.118:8000/stream.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644778164</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 93/1000) Austin Blues Radio</title>
+    <genre>Blues, Blues Rock, Country Rock, Soul Blues, Funk Blues, Folk</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://158.69.131.71:8036/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779509</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#3 - 3984/500000) ANTENNE BAYERN Oldies but Goldies (Germany)</title>
+    <genre>Oldies</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.antenne.de:80/oldie-antenne</location>
+    <play-count>2</play-count>
+    <last-played>1644778151</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 0/500000) ANTENNE BAYERN Oldies but Goldies (Germany)</title>
+    <genre>Oldies</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.antenne.de:80/oldieantenne</location>
+    <play-count>1</play-count>
+    <last-played>1644778006</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#2 - 3319/500000) ANTENNE BAYERN Oldies but Goldies (Germany)</title>
+    <genre>Oldies</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.antenne.de:80/oldies-but-goldies</location>
+    <play-count>2</play-count>
+    <last-played>1644778153</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 4/512) SkyChatz FM</title>
+    <genre>Muzik Sky</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://51.79.158.69:8080/</location>
+    <play-count>1</play-count>
+    <last-played>1644778174</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 8772/50) Dance Wave!</title>
+    <genre>Club Dance Electronic House Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://62.141.38.36:8080/dance.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1644778053</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 1/999) MIXX DJ TASHA MIXX</title>
+    <genre>Classique Alternative</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://51.89.173.53:8579/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779502</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 5/100) AAIR - ANALOG AIR WAVES</title>
+    <genre>Acid House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://98.179.110.241:8000/</location>
+    <play-count>1</play-count>
+    <last-played>1644778168</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 13/40) Moscow | Brightbass.com | light side of drum and bass</title>
+    <genre>Drum &amp; Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://s01.radio-tochka.com:6235/</location>
+    <play-count>1</play-count>
+    <last-played>1644778748</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 443/3500) Radio Petrecaretzu wWwRadioPetrecaretzuRo Petrecere Populara Etno Manele Top 40</title>
+    <genre>Blues, Top 40, Latin, R&amp;B and Urban, International</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://54.39.28.158:8383/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779514</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 6/3000) X13 Radio - UK Hits</title>
+    <genre>UK</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://x13radio.com:8000/stream/46/</location>
+    <play-count>1</play-count>
+    <last-played>1644779062</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>23Indie</title>
+    <genre>Indie</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://listen.radionomy.com:80/23Indie</location>
+    <play-count>1</play-count>
+    <last-played>1644779076</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 79/500) Blues Radio UK</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://149.255.59.3:8232/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779507</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BluesMusicFan Radio</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://144.168.41.58:80/1992_128.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644779540</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>BluesMusicFan Radio</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://216.235.89.162:80/1992_128.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644779543</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>1.FM - Blues (www.1.fm)</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://185.33.21.112:80/blues_64</location>
+    <play-count>1</play-count>
+    <last-played>1644779527</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 82/3000) Velvet 96.8</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://s10.voscast.com:9942</location>
+    <play-count>1</play-count>
+    <last-played>1644779507</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>1.FM - Blues (www.1.fm)</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://185.33.21.111:80/blues_128</location>
+    <play-count>1</play-count>
+    <last-played>1644779517</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 68/999) Joint Radio Blues Rock</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://192.111.151.2:9992/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779506</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>1.FM - Blues (www.1.fm)</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://185.33.21.111:80/blues_64</location>
+    <play-count>1</play-count>
+    <last-played>1644779520</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>1.FM - Blues (www.1.fm)</title>
+    <genre>Blues</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://185.33.21.112:80/blues_128</location>
+    <play-count>1</play-count>
+    <last-played>1644779523</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 820/5000) Radio-Carsija</title>
+    <genre>Blues, Country, Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://87.118.126.101:19406/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779515</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 62/100) Skynet (Part of the Skynet Network)</title>
+    <genre>Various</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.150.53.50:4338/stream</location>
+    <play-count>3</play-count>
+    <last-played>1644779663</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 179/1000) Venice Classic Radio Italia</title>
+    <genre>Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://116.202.241.212:7015/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779904</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#3 - 508/1000) Venice Classic Radio Italia</title>
+    <genre>Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://174.36.206.197:8000/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779907</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#2 - 1276/5000) Venice Classic Radio Italia</title>
+    <genre>Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://116.202.241.212:8010/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779906</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 149/8000) CALMRADIO.COM - Mozart</title>
+    <genre>Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://23.82.11.89:7328/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779903</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 59/100) Radio UK 8</title>
+    <genre>Unspecified</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.150.53.50:4572/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779066</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 62/100) Radio 7 UK</title>
+    <genre>Unspecified</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.150.53.50:4568/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779068</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 64/100) Radio 6 UK</title>
+    <genre>Unspecified</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.150.53.50:4564/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779070</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 69/100) Part of the Skynet Network 6</title>
+    <genre>Unspecified</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.150.53.50:4493/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779072</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 44/100) Radio 9 UK</title>
+    <genre>Unspecified</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.150.53.50:4576/stream</location>
+    <play-count>2</play-count>
+    <last-played>1644779575</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 440/3000) Focus FM Regional</title>
+    <genre>Classical, Blues, Country, 80s, 70s</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://89.40.72.71:8000/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644779905</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#2 - 98/200) Chaabi Maroc by Yabiladi.com</title>
+    <genre>Ambient, Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.187.146.76:8100</location>
+    <play-count>2</play-count>
+    <last-played>1644779919</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 1/200) Chaabi Maroc by Yabiladi.com</title>
+    <genre>Ambient, Classical</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://151.80.33.75:8100</location>
+    <play-count>3</play-count>
+    <last-played>1644779915</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Ritual Gym</title>
+    <genre>jamendo</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://listen.radionomy.com:80/ritual-gym</location>
+    <play-count>1</play-count>
+    <last-played>1644778149</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Flashback Alternatives</title>
+    <genre>jamendo</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://listen.radionomy.com:80/FlashbackAlternatives</location>
+    <play-count>1</play-count>
+    <last-played>1644779544</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 9/256) DnBRadio.com</title>
+    <genre>Drum and Bass, Jungle, Electronic, Dance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://94.23.109.17:8000</location>
+    <play-count>1</play-count>
+    <last-played>1644778740</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#3 - 104/250) DnBRadio.com</title>
+    <genre>Drum and Bass, Jungle, Electronic, Dance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://78.46.228.255:10128/dnbradio_main.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644778754</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#2 - 37/250) DnBRadio.com</title>
+    <genre>Drum and Bass, Jungle, Electronic, Dance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://46.105.124.104:8000/dnbradio_main.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644778753</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 25/2000) Cafe Roma Lounge</title>
+    <genre>Lounge, Ambient, Jazz, Chillout, Smooth Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://mpc.mediacp.eu:8618/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644778289</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 45/9999) Different Drumz DnB Radio</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://37.187.79.93:8031/stream</location>
+    <play-count>3</play-count>
+    <last-played>1644779748</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 18/100) Radio-Tube Drum and Bass</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://91.232.4.33:7022/Radio-Tube Drum and Bass</location>
+    <play-count>2</play-count>
+    <last-played>1644778865</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 80/9999) Bassdrive - Worldwide Drum and Bass Radio</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://144.217.129.213:8702/stream</location>
+    <play-count>3</play-count>
+    <last-played>1644779754</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 33/1500) PARTY VIBE RADIO : DRUM &amp; BASS</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://94.130.242.5:8004/stream</location>
+    <play-count>2</play-count>
+    <last-played>1644778867</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 10/500) DRUM AND BASS LOUNGE - [www.drumandbasslounge.com]</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://198.15.94.34:8012/stream</location>
+    <play-count>2</play-count>
+    <last-played>1644778859</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 11/9999) Futuredrumz.com Jungle Drum &amp; Bass Radio</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://148.251.43.231:8625/stream</location>
+    <play-count>2</play-count>
+    <last-played>1644778863</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 8/3000) X13 Radio - Drum and Bass</title>
+    <genre>Drum and Bass</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://x13radio.com:8000/stream/21/</location>
+    <play-count>2</play-count>
+    <last-played>1644778774</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 4301/500000) ANTENNE BAYERN Chillout (Germany)</title>
+    <genre>Electro</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.antenne.de:80/chillout</location>
+    <play-count>2</play-count>
+    <last-played>1644778136</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>SmoothLounge.com Global</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.155.83.226:80/2586_128.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644778270</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 26494/500000) ROCK ANTENNE</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.antenne.de:80/rockantenne</location>
+    <play-count>3</play-count>
+    <last-played>1644779600</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>SmoothLounge.com Global</title>
+    <genre>Rock</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://66.85.89.6:80/2586_128.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644778266</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 48958/500000) ANTENNE BAYERN</title>
+    <genre>Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream.antenne.de:80/antenne</location>
+    <play-count>2</play-count>
+    <last-played>1644778160</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>100% POP - NEW WAVE - PROG</title>
+    <genre>pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://listen.radionomy.com/100-POP---NEW-WAVE---PROG</location>
+    <play-count>1</play-count>
+    <last-played>1644779078</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 1/250) Music Sessions 313 Radio</title>
+    <genre>Acid House, R&amp;B and Urban, Gospel, Jazz</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://igor.torontocast.com:1140</location>
+    <play-count>2</play-count>
+    <last-played>1644778266</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 11/500) Bass Station DnB on MixLive.ie</title>
+    <genre>Drum and Bass, Jungle, Hardcore, 90s, Old School</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://2.58.194.54:8846/stream</location>
+    <play-count>1</play-count>
+    <last-played>1644778743</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 1618/50000) Hubu.FM | Radio Hunteburg</title>
+    <genre>Misc</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://199.223.255.125:8000/</location>
+    <play-count>2</play-count>
+    <last-played>1644778049</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://209.133.194.186:8232/stream/1</location>
+    <play-count>2</play-count>
+    <last-played>1644778066</last-played>
+    <bitrate>64</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://51.79.17.214:8232/stream/1</location>
+    <play-count>1</play-count>
+    <last-played>1644778058</last-played>
+    <bitrate>63</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://108.61.73.10:8232/stream/1</location>
+    <play-count>2</play-count>
+    <last-played>1644778067</last-played>
+    <bitrate>60</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://64.237.40.90:8232/stream/1</location>
+    <play-count>1</play-count>
+    <last-played>1644778056</last-played>
+    <bitrate>65</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://23.111.186.218:8232/stream/1</location>
+    <play-count>2</play-count>
+    <last-played>1644778065</last-played>
+    <bitrate>62</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://108.61.43.2:8232/stream/1</location>
+    <play-count>2</play-count>
+    <last-played>1644778069</last-played>
+    <bitrate>60</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://107.191.33.98:8232/stream/1</location>
+    <play-count>2</play-count>
+    <last-played>1644778074</last-played>
+    <bitrate>62</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>ANTENA1 | 94,7 FM</title>
+    <genre>Pop, Rock, Top 40</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://45.32.3.178:8232/stream/1</location>
+    <play-count>1</play-count>
+    <last-played>1644778061</last-played>
+    <bitrate>61</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 135/250) DIMENSIONE RELAX</title>
+    <genre>Ambient, Easy Listening, Chillout</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://jenny.torontocast.com:8012/stream</location>
+    <play-count>2</play-count>
+    <last-played>1644779669</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 26/500) Chillout Essentials on MixLive.ie</title>
+    <genre>Ambient, Chill, Downtempo</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://2.58.194.54:8840/stream</location>
+    <play-count>3</play-count>
+    <last-played>1644779923</last-played>
+    <bitrate>191</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 40/5000) MGT Love Hits</title>
+    <genre>Ambient, Top 40, Pop</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://192.95.37.228:8010/aac</location>
+    <play-count>2</play-count>
+    <last-played>1644778287</last-played>
+    <bitrate>61</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 19/300) #DNBRADIO - Mobile Channel - Fresh Drum n Bass, Jungle</title>
+    <genre>Drum and Bass, Electronic, Breakbeat</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://78.46.228.255:10128/dnbradio_mobile.aac</location>
+    <play-count>1</play-count>
+    <last-played>1644778749</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>(#1 - 5642/50) Dance Wave Retro!</title>
+    <genre>90s Dance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://62.141.38.36:8080/retrodance.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644778020</last-played>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
